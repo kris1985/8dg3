@@ -1,0 +1,224 @@
+html ,body{background:#ccc}
+*{padding:0;margin:0}
+ul li{list-style: none;}
+.main {background:#fff}
+.main_tit {
+font: normal 30px "Microsoft YaHei", "寰蒋闆呴粦", "SimHei", "榛戜綋";
+color: #2d2d2d; background:url(../images/835_06.gif) left bottom repeat-x; padding-bottom:10px; margin-bottom:10px
+}
+.right{ float:right}
+
+.f14{ font-size:14px}
+
+.header{ background:url(../images/835_02.gif) repeat-x; height:47px; }
+.header #logo{ position:absolute; left:0; top:0; z-index:100000}
+/**/
+#mainnav{ height:47px; margin:0; padding:0}
+#mainnav ul { padding-left:230px; height:47px;position: relative;
+left: 0;
+display: block;
+float: left;
+margin: 0 10px 0 0;}
+#mainnav ul li{ list-style:none; float:left;  line-height:47px; margin-right:20px; font-weight:bold; font-size:14px; color:#FFF}
+
+#mainnav ul li a{ color:#FFF; font-family:"Microsoft YaHei"}
+
+a{color:#696969;text-decoration: none;}
+.navbar-brand{font: normal 16px "Microsoft YaHei", "寰蒋闆呴粦", "SimHei", "榛戜綋";}
+.tt0 {
+height: 47px;
+line-height: 47px;
+border-bottom: 1px solid #2d2d2d;
+}
+
+.tt0 h3 a, .tt0 h3 a:visited {
+color: #2d2d2d;
+}
+
+.pt_t {
+height: 40px;
+line-height: 40px;
+margin-top: -40px;
+text-align: center;
+}
+.pt_t {
+filter: progid:DXImageTransform.Microsoft.gradient(GradientType = 0,startColorstr = '#cc000000', endColorstr = '#cc000000' )\9;
+background-color: rgba( 0, 0, 0, .6 );
+color: #fff;
+display: block;
+line-height: 30px;
+overflow: hidden;
+margin-top: -30px;
+height: 30px;
+cursor: pointer;
+z-index: 2;
+position: relative;
+font-size: 12px;
+text-indent: 10px;
+}
+.blk23_hdline {
+border-bottom: 1px dotted #ccc;
+}
+.blk23 {
+float: left;
+display: inline;
+
+overflow: hidden;
+margin-top: 10px;
+}
+.clearfix {
+zoom: 1;
+}
+.blk23_hdline .h4 {
+font-size: 18px;
+color: #2d2d2d;
+line-height: 34px;
+height: 34px;
+}
+.blk23_hdline .h4 a{color: #2d2d2d;font-family: "寰蒋闆呴粦";}
+.blk23_hdline .h4 a:hover {
+color: #B58D4F;
+}
+.blk23_hdline p {
+padding: 5px 0 10px;
+line-height: 24px;
+font-size: 12px;
+font-family: "Simsun","瀹嬩綋";
+}
+.blk23_hdline p {
+line-height: 24px;
+font-size: 12px;
+font-family: "Simsun","瀹嬩綋";
+}
+
+.list0 {
+line-height: 28px;padding: 10px 0;
+}
+.list0  li a{font: 14px "Arial", "SimSun";color: #2d2d2d;}
+.blk23_pt {
+margin-top: 10px;
+}
+.blk23_pt_item {
+float: left;
+display: inline;
+width: 120px;
+margin-right:20px;
+}
+.blk23_pt_item .imgwrap {
+width: 120px;
+height: 100px;
+}
+.blk23_pt_item img {
+display: block;
+width: 120px;
+height: 100px;
+}
+.blk23_pt_item p {
+line-height: 16px;
+padding-top: 10px;
+font-size: 12px;
+text-align: center;
+}
+
+.tt0 {
+height: 47px;
+line-height: 47px;
+border-bottom: 1px solid #2d2d2d;
+}
+.tt0 h3 {
+font: normal 30px/47px "Microsoft YaHei", "寰蒋闆呴粦", "SimHei", "榛戜綋";
+color: #2d2d2d;
+}
+.tt0 h3  a{color: #000;
+text-decoration: none;
+}
+.pt0 {
+border-bottom: 1px dotted #999;
+}
+.pt0_p {
+float: left;
+display: inline;
+width: 100px;
+padding: 20px 0;
+}
+.pt0_p img {
+display: block;
+width: 100px;
+height: 96px;
+}
+.pt0_t {
+float: left;
+display: inline;
+width: 230px;
+padding-top: 20px;
+}
+.pt0_t h4 {
+width: 115px;
+height: 25px;
+line-height: 25px;
+background: #f0f0f0;
+text-align: center;
+font-size: 14px;
+font-weight: normal;
+color: #B58D4F;
+overflow: hidden;
+display:none;
+}
+.pt0_t h4 a, .pt0_t h4 a:visited {
+color: #B58D4F;
+}
+.pt0_t .tit {
+
+font: 18px "Arial", "Microsoft YaHei", "寰蒋闆呴粦", "SimSun", "瀹嬩綋";
+
+}
+.pt0_t .tit a {color: #2d2d2d;}
+.pt0_t p {
+font-size: 12px;
+font-family: "瀹嬩綋";
+line-height: 24px;
+color: #696969;
+padding-left: 10px;
+}
+
+.slide {
+margin-top: 19px;
+
+}
+
+.blk03 {
+
+}
+.tt1 {
+height: 36px;
+line-height: 36px;
+background: url(../images/repeatX.png) 0 19px repeat-x;
+}
+.tt1 h3 {
+width: 130px;
+height: 36px;
+background-color: #fff;
+margin: 0 auto;
+text-align: center;
+font: normal 24px/36px "Microsoft YaHei", "寰蒋闆呴粦", "Simhei", "榛戜綋";
+color: #000;
+}
+.tt1 h3 a, .tt1 h3 a:visited {
+color: #000;text-decoration: none;
+}
+.rank0 {
+padding-left: 25px;
+line-height: 30px;
+background: url(http://i1.sinaimg.cn/fashion/deco/2013/0624/index/texts_3st.png) -580px -793px no-repeat;
+}
+.rank0 li {list-style:none}
+
+.tcms .media-list{padding:20px 0;}
+.lyyj{padding:20px 0;}
+.lyyj .glyphicon{font-size:16px;}
+.lyyj .count{width:30px;text-align:center;display: inline-block;}
+.fjmt{}
+
+.hot_news{border-bottom: 1px dotted #ccc;}
+.hot_news p{font-size:12px;color:#696969}
+.hot_news h2 a{color:#2d2d2d;font: 20px "Arial", "Microsoft YaHei";}
